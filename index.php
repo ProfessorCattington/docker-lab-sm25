@@ -71,6 +71,8 @@ $result = $conn->query($sql);
   </div>
 </nav>
     <div class="container">
+<p> “The only man who never makes mistakes is the man who never does anything.”
+― Theodore Roosevelt </p>
         <h1 class="mb-4">Users</h1>
         <table class="table table-striped">
             <thead>
